@@ -31,7 +31,7 @@ SkyPulse is a modern, responsive web application that provides real-time weather
 
 To run this project locally, follow these simple steps.
 
-Click on this:-
+Click on this:-https://ujjawal442025.github.io/SkyPulse-/
 ---
 
 ## **Preveiw**
